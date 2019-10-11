@@ -33,12 +33,12 @@ Dataset Root
 #### Usage
 Finding Target Sequence:
 ```bash
-python3 find_cue_frames.py --source /home/user/path/to/dataset_root/
+python3 dataset/find_cue_frames.py --source /home/user/path/to/dataset_root/
 ```
 
 Labelling the videos:
 ```bash
-python3 label_videos.py --source /home/user/path/to/dataset_root/
+python3 dataset/label_videos.py --source /home/user/path/to/dataset_root/
 ```
 
 ## Dependencies

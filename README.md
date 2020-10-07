@@ -1,6 +1,6 @@
 # Neuro-Face-Attention.
 
-PyTorch implementation of Neuro-Face-Attention by [Arun Das](https://github.com/arundasan91), [Henry Chacon](https://github.com/henrychacon), and [Paul Rad](https://github.com/paulNrad).
+Tensorflow implementation of Neuro-Face-Attention by [Arun Das](https://github.com/arundasan91), [Henry Chacon](https://github.com/henrychacon), and [Paul Rad](https://github.com/paulNrad).
 
 We tackle the problem of learning low-level facial attributes to encode muscle movements as a dense vector for stuttering studies.
 
